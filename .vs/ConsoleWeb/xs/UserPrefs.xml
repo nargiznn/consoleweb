@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{90FFDA9F-A012-4B0C-B6F1-F117681103C8}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleWeb FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleWeb/Entities/Product.cs">
+    <Files>
+      <File FileName="ConsoleWeb/Program.cs" Line="1" Column="1" />
+      <File FileName="ConsoleWeb/Entities/Product.cs" Line="13" Column="1" />
+      <File FileName="ConsoleWeb/AppDbContext.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleWeb" expanded="True">
+            <Node name="ConsoleWeb">
+              <Node name="Entities" expanded="True">
+                <Node name="Product.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
